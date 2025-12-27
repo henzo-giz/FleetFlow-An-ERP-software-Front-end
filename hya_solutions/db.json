@@ -1,0 +1,9 @@
+{
+  "vehicles": [
+    { "id": 1, "name": "Truck A", "plate": "ABC-123", "status": "active" },
+    { "id": 2, "name": "Van B", "plate": "XYZ-987", "status": "maintenance" }
+  ],
+  "drivers": [
+    { "id": 1, "name": "John Doe", "license": "123456" }
+  ]
+}
